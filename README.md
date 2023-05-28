@@ -10,6 +10,7 @@ I was interested in development for a long time and I started doing it. I can ca
 *   ✉️  You can contact me at [thunks-remorse.0n@icloud.com](mailto:thunks-remorse.0n@icloud.com)
 *   🧠  I'm learning
 *   ⚡  Btw I use Arch!
+
 <a href="https://www.github.com/Phenantherene" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/Phenantherene?logo=github&style=for-the-badge&color=ef4444&labelColor=27272a" /></a>
 
